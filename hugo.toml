@@ -1,4 +1,4 @@
 baseURL = ''
-languageCode = 'en-us'
+languageCode = 'cs-cz'
 title = 'Můj malý receptář'
-theme = 'fluency'
+# theme = 'fluency'
